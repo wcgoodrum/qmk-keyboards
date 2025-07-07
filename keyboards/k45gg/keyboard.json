@@ -2,7 +2,7 @@
   "keyboard_name": "k45gg",
   "manufacturer": "wcgoodrum",
   "maintainer": "wcgoodrum",
-  "url": "https://ai03.com/",
+  "url": "https://github.com/wcgoodrum/qmk-keyboards/",
   "usb": {
     "vid": "0xFEED",
     "pid": "0xC0FE",
