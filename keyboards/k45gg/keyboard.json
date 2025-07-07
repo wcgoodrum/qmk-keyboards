@@ -1,6 +1,8 @@
 {
   "keyboard_name": "k45gg",
   "manufacturer": "wcgoodrum",
+  "maintainer": "wcgoodrum",
+  "url": "https://ai03.com/",
   "usb": {
     "vid": "0xFEED",
     "pid": "0xC0FE",
@@ -12,7 +14,7 @@
     "nkro": true
   },
   "matrix_pins": {
-    "cols": ["GP8", "GP7", "GP11", "GP10", "GP6", "GP5", "GP4", "GP3", "GP2", "GP1", "GP0", "GP28"],
+    "cols": ["GP8", "GP7", "GP11", "GP10", "GP15", "GP6", "GP5", "GP4", "GP3", "GP2", "GP1", "GP0"],
     "rows": ["GP14", "GP16", "GP17", "GP18"]
   },
   "diode_direction": "COL2ROW",
