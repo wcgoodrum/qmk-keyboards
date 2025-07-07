@@ -1,11 +1,13 @@
-#k45gg 
-this is my third mech board and my first handwired/40% board.
+# k45gg 
+
+This is my third mech and my first handwired/40% board.
+
 - switches: Gateron clicky blues (because i love my first board with cherry blues so much. the click is too fun)
-- keycaps: cannabalized from my first two boards: the beloved Leopold FC980m and some cheap chinese 65%
-- case: polycarbonate designed and assembled by me using plastic glue, cut by [HypeKeyboards](https://hypekeyboards.ca/)
-- plate: designed by me using [KLE](https://www.keyboard-layout-editor.com) and [ai03](https://kbplate.ai03.com/), cut by [HypeKeyboards](https://hypekeyboards.ca/)
+- keycaps: Cannabalized from my first two boards: the beloved Leopold FC980m and some cheap chinese 65%
+- case: Polycarbonate designed and assembled by me using plastic glue, cut by [HypeKeyboards](https://hypekeyboards.ca/)
+- plate: Designed by me using [KLE](https://www.keyboard-layout-editor.com) and [ai03](https://kbplate.ai03.com/), cut by [HypeKeyboards](https://hypekeyboards.ca/)
 - microcontroller: Stampy by Keebio
-- firmware: written by me using QMK
+- firmware: Written by me using QMK
 
 This has been a massive learning experience, definitely will use this knowledge to try again some time and make an even better version of this board. 
 I will probably not go with a polycarbonate case next time, as the sound is kind of echoey and it was really hard keeping the pieces perfectly aligned when gluing it together.
